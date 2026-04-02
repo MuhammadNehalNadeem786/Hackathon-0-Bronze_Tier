@@ -1,0 +1,9 @@
+This is a demo task for the AI Employee.
+
+Please analyze this text and:
+1. Summarize the content
+2. Identify any action items
+3. Create a plan to process this task
+4. Move the file to Done when complete
+
+Thank you, AI Employee!
